@@ -20,12 +20,6 @@ This application addresses the critical need for accessible financial education 
 - **24/7 Availability**: Instant access to financial coaching and step-by-step guidance
 - **Contextual Recommendations**: AI understands user's current financial situation
 
-### Technical Excellence
-- **Component-Based Architecture**: Modular, reusable React components
-- **Performance Optimized**: Efficient rendering and minimal bundle size
-- **Cross-Browser Compatibility**: Tested across major browsers
-- **Accessibility Compliant**: WCAG guidelines implementation
-
 ## The 7 Baby Steps Framework
 
 | Step | Goal | Description |
@@ -43,7 +37,6 @@ This application addresses the critical need for accessible financial education 
 ### Frontend
 - **React 18** - Modern functional components with hooks
 - **CSS3** - Advanced styling with gradients, animations, and flexbox/grid
-- **Responsive Design** - Mobile-first approach with breakpoint optimization
 
 ### AI Integration
 - **Voiceflow API** - Production chatbot with natural language processing
@@ -66,7 +59,7 @@ npm >= 6.0.0
 ### Installation & Setup
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/7-step-success.git
+git clone https://github.com/vedant-42/geminihackathon2025.git
 
 # Navigate to project directory
 cd dave-ramsey-tracker
@@ -136,11 +129,6 @@ src/
 - **Modern JavaScript**: ES6+ features and best practices
 - **Performance**: Optimized rendering and minimal bundle size
 
-### User-Centered Design
-- **Accessibility**: WCAG compliant interface design
-- **UX Research**: Applied financial psychology principles
-- **Visual Hierarchy**: Clear information architecture and navigation
-
 ## Future Enhancements
 
 - **User Authentication**: Personal progress tracking and data persistence
@@ -148,15 +136,3 @@ src/
 - **Social Features**: Community support and milestone sharing
 - **Mobile App**: React Native implementation for iOS/Android
 - **Integration APIs**: Bank account linking and automated tracking
-
-## Connect & Collaborate
-
-This project demonstrates proficiency in:
-- **Frontend Development**: React, JavaScript, CSS3
-- **API Integration**: Third-party service implementation
-- **UI/UX Design**: Modern, user-centered interface design
-- **Problem Solving**: Complex technical challenges and solutions
-
----
-
-**Built with ❤️ for financial empowerment and education**
