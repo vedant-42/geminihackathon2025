@@ -69,7 +69,7 @@ npm >= 6.0.0
 git clone https://github.com/yourusername/7-step-success.git
 
 # Navigate to project directory
-cd 7-step-success
+cd dave-ramsey-tracker
 
 # Install dependencies
 npm install
